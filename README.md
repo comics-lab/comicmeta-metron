@@ -1,5 +1,11 @@
 # comicmeta-metron
 
+## Agent and Logs
+
+- Agent profile: `AGENTS.md`
+- Logs (local-only): `CONVERSATION.md`, `BOOKMARKS.md`, `Action-Log.md` (when present)
+
+
 Connector for Metron (Mokkari + Metron-Tagger).
 
 ## Quickstart
